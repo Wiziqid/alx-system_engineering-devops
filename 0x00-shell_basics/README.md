@@ -4,3 +4,5 @@ how to display list of your current directory
 
 there is no place like home 
 
+display current directory contents in a long format
+
