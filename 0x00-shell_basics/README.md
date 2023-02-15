@@ -10,3 +10,4 @@ display current directory contents including hidden  files in long format
 
 display current directory contents
 
+creating a script that creates a directory
