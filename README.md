@@ -29,3 +29,5 @@ task 13. symbolic link
 task 14.copy html 
 
 task 15.Let’s move
+
+task 16.cleaning emacs
