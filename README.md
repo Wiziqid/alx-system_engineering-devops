@@ -23,3 +23,5 @@ tas 10. back to the future
 task 11. lists
 
 task 12. file type
+
+task 13. symbolic link

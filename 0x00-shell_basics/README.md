@@ -22,4 +22,6 @@ changing working directory to the previous one
 
 a script that lists all files
 
-a script that prints a file name 
+a script that prints a file name
+
+a script that creates symbolic link  
