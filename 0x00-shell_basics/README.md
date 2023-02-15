@@ -24,4 +24,6 @@ a script that lists all files
 
 a script that prints a file name
 
-a script that creates symbolic link  
+a script that creates symbolic link
+
+Create a script that copies all the HTML files from the current working directory to the parent of the working directory  
