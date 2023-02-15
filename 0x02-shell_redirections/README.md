@@ -1,1 +1,1 @@
-hello world script
+a script of hello world
