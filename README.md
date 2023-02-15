@@ -11,3 +11,5 @@ task 4. hidden files
 task 5. i love numbers
 
 task 6. welcome
+
+task 7.betty in my first directory
