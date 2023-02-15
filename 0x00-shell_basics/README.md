@@ -7,3 +7,6 @@ there is no place like home
 display current directory contents in a long format
 
 display current directory contents including hidden  files in long format
+
+display current directory contents
+
