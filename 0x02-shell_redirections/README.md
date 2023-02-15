@@ -1,1 +1,1 @@
- a hello world script
+my hello script
