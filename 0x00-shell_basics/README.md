@@ -13,3 +13,5 @@ display current directory contents
 creating a script that creates a directory
 
 moving a file
+
+deleting a file
